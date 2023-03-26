@@ -1,4 +1,4 @@
-package org.example.lesson49optional;
+package org.example.lesson49optional.task2;
 
 public class Car {
     int number;
